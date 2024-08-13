@@ -1,4 +1,9 @@
 # AVmaster
+無料AV動画の作品について、ユーザーの好みに合わせて採点しよう。
+https://xvideo-jp.com/
+
+zennで書いたこちらの記事です。
+https://zenn.dev/yuta_enginner/articles/63b4fea3f57836
 
 ## Installation
 
